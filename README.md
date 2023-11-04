@@ -4,10 +4,10 @@ Swift Playground by X.app
 
 #
 
-### {X} App Playground:
-- Playground App
+### {X} App:
+[![{X} App](https://github.com/xapp/playgrounds/blob/main/Thumbnail/XAppThumbnail.png)](https://github.com/xapp/playgrounds/blob/main/X.app.swiftpm.zip)
 
 #
 
-### {X} Book Playground:
-- Playground Book
+### {X} Book:
+[![{X} App](https://github.com/xapp/playgrounds/blob/main/Thumbnail/XBookThumbnail.png)](https://github.com/xapp/playgrounds/blob/main/X.book.playgroundbook.zip)
