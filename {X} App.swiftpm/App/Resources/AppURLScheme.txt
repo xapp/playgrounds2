@@ -1,0 +1,3 @@
+App URL Scheme:
+- app.x.playground://
+- x.playgrounds://
