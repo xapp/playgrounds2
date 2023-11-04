@@ -4,10 +4,10 @@ Swift Playground by X.app
 
 #
 
-### {X} App playground:
+### {X} App Playground:
 - Playground App
 
 #
 
-### {X} Book playground:
+### {X} Book Playground:
 - Playground Book
